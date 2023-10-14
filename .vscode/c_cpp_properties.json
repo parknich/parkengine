@@ -5,13 +5,15 @@
             "includePath": [
                 "${workspaceFolder}/",
                 "C:/msys64/ucrt64/include/",
-                "E:/Projects/CPP/OpenGL/parkengine/include/"
+                "E:/Projects/CPP/OpenGL/parkengine/include/",
+                "C:/msys64/ucrt64/include/c++/13.2.0"
             ],
             "browse": {
                 "path": [
-                    "${workspaceFolder}/**",
+                    "${workspaceFolder}/",
                     "C:/msys64/ucrt64/include/",
-                    "E:/Projects/CPP/OpenGL/parkengine/include/"
+                    "E:/Projects/CPP/OpenGL/parkengine/include/",
+                    "C:/msys64/ucrt64/include/c++/13.2.0"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""

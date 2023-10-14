@@ -1,0 +1,1 @@
+this is a little project of mine, i am attempting to create a bare bones openGL engine to allow me to make opengl games and applications in a simple manner. as of now i am simply following learnopengl.com 's guide to learn opengl (obviously) so dont expect anything special here.

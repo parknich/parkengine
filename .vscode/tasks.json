@@ -14,7 +14,7 @@
                 "-lglfw3"
             ],
             "options": {
-                "cwd": "C:/Users/Parker/Documents/Projects/parkengine/src"
+                "cwd": "E:/Projects/CPP/OpenGL/parkengine/src"
             },
             "problemMatcher": [
                 "$gcc"

@@ -10,11 +10,11 @@
                 "main.cpp",
                 "glad.c",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}.exe",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
                 "-lglfw3"
             ],
             "options": {
-                "cwd": "E:/Projects/CPP/OpenGL/parkengine/src"
+                "cwd": "E:\\Projects\\CPP\\OpenGL\\parkengine\\src"
             },
             "problemMatcher": [
                 "$gcc"
